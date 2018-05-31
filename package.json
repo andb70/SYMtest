@@ -1,0 +1,17 @@
+{
+    "name": "nodeits-oauh2",
+    "description": "Esempio per OAuth 2 authentication con token JWT",
+    "authors": "Andrea Dottor",
+    "version": "1.0.0",
+    "main": "inde.js",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.18.2",
+        "cors": "^2.8.4",
+        "express": "^4.16.3",
+        "jsonwebtoken": "^8.2.1",
+        "mssql": "^4.1.0",
+        "request": "^2.86.0",
+        "request-promise-native": "^1.0.5"
+    }
+}
